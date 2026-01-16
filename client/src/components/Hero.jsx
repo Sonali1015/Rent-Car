@@ -49,7 +49,7 @@ const Hero = () => {
               required
             />
           </div>
-          <button className="flex items-center justify-center gap-1 px-9 py-3 max-sm:mt-4 bg-[#2563eb] hover:bg-[#1f58d8]text-white rounded-full cursor-pointer">
+          <button className="flex items-center justify-center gap-1 px-9 py-3 max-sm:mt-4 bg-[#2563eb] hover:bg-[#1f58d8] text-white rounded-full cursor-pointer">
             <img
               src={assets.search_icon}
               alt="search"
